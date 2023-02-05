@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+body {
+    margin: 0; 
+}
+
+#boxel {
+    background: #1F2937;
+    width: 550px; 
+    height: 550px; 
+    margin: 100px auto; 
+    margin-bottom: 0px; 
+}
+
+#header_el {
+    padding-top: 70px; 
+    padding-bottom: 0; 
+    font-weight: 800;
+    font-size: 40px;
+    margin-left: 10px;
+    margin-right: 0px; 
+    color: white; 
+    font-family: 'Karla', sans-serif;
+}
+
+#submit_btn { 
+    background: #15C39A;
+    color: white; 
+    width: 120px; 
+    height: 36px; 
+    max-width: 120px; 
+    max-height: 36px;  
+    font-weight: bold; 
+    border: none; 
+    margin-top: 40px; 
+    border-radius: 3px; 
+    margin-left: 215px; 
+}
+
+#second_line {
+    color: #4ADF86;
+}
+
+label {
+    margin-left: 190px; 
+    color: #4ADF86;
+}
+
+input {
+    margin-left: 190px; 
+    background-color: white; 
+}
+
+form {
+    
+}
+
+
+font-face {
+    font-family: Gist;
+    src: url("Gist.otf");
+}
+
+  #everything{
+      background-color:#D3D3D3;
+  }
+#top {
+background-color: #4adf86;
+color: #FFF;
+text-align: center;
+margin-bottom:0px;
+height: 50px;
+line-height: 50px;
+font-size: 2em;
+   font-family: 'Itim', cursive;
+margin-top:0px;
+
+}
+    #header {
+          margin-top: 0;
+
+background-image: url('globe.png');
+background-size: cover;
+background-position: center;
+color: #FFF;
+font-size: 8em;
+text-align: center;
+line-height: 500px;
+
+text-shadow: 0px 0px 10px #000;
+            font-family: 'Itim', cursive;
+
+
+    }
+
+    h1{
+   text-align: center;
+       font-family: 'Itim', cursive;
+            margin-top:0px;
+            margin-bottom:0px;
+}
+h2{
+   text-align: center;
+    font-family: 'Itim', cursive;
+}
+h3{
+   text-align: left;
+   font-size:20px;
+   line-height: 50px;
+   margin-left:30px;
+   margin-right:5px;
+ font-family: 'Itim', cursive;
+ padding:auto;
+ display:flex;
+
+
+}
+
+#wrapper {
+background-color: #D3D3D3;
+display: flex;
+flex-wrap: wrap;
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+flex-direction: column;
+}
+        img {
+width: 400px;
+height: 400px;
+overflow: hidden;
+object-fit: cover;
+float:left;
+clear: both;
+margin-right:30px;
+}
+.clearfloat {
+clear: both;
+}
+        .img-container{
+            margin-left:10px;
+            margin-right:10px;
+           
+        }
+
+#wrappertwo {
+    background-color: #D3D3D3;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+}
+
+#userimage {
+    margin-top: 20px; 
+    margin-left: 160px;  
+}
+
+#bottom-half {
+    background-color: #1C1C1C;
+}
